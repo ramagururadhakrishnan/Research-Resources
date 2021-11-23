@@ -1,7 +1,7 @@
 # Research Resources
 
 <p align="center">
-  <img src="https://github.com/ramagururadhakrishnan/Research-Resources/blob/main/assets/RRC.jpeg" width="250" />
+  <img src="https://ramagururadhakrishnan.github.io/Research-Resources/assets/RRC.jpeg" width="250" />
 </p>  
 Repository of Resources to Research Scholars.
 
