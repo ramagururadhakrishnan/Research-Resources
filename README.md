@@ -18,9 +18,16 @@ Repository of Resources to Research Scholars.
 - [(Web) Publication List](http://publicationslist.org/)
 - [(Web) Publons (WoS)](https://publons.com/)
 - [(Web) PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [(Web) RSquareL](https://www.rsquarel.org/)
 
-## Research Tracker
+## Concept and Mind-Mapping Tools
+- [Coggle](https://coggle.it/)
+- [Cmap](https://cmap.ihmc.us/)
+- [Obsidian](https://obsidian.md/)
+
+## My Research Tracker
 - [(MobileApp) Clarivate Web of Science - My Research Assistant](https://clarivate.com/webofsciencegroup/solutions/web-of-science-my-research-assistant/)
+- [(Web/Desktop) Mendeley](https://www.mendeley.com/)
 - [(Desktop) Zotero](https://www.zotero.org/)
 - [(Web) Iris.ai](https://iris.ai/)
 
@@ -34,20 +41,26 @@ Repository of Resources to Research Scholars.
 
 ## Code / Dataset / Version Management
 - [(Web/MobileApp) GitHub](https://github.com/)
+  - [(PDF) Cheat Sheet](https://ramagururadhakrishnan.github.io/Research-Resources/assets/Markdown_Cheat_Sheet.pdf)
 - [(Web) Codepen](https://codepen.io/)
 - [(Web) BitBucket](https://bitbucket.org/)
 
 ## Thesis/Publication Writing
 ### Online Editor 
   - [(Web) Latex Editor - Overleaf](https://www.overleaf.com/)
+    - [(PDF) Latex Cheat Sheet](https://ramagururadhakrishnan.github.io/Research-Resources/assets/Latex_Cheat_Sheet.pdf)
+    
 ### Online Image Creator
   - [(Web) Draw.io](https://draw.io/)
   - [(Web) Lucidchart](https://www.lucidchart.com/)
+  
 ### Citation 
   - [(Web) Citeas](https://citeas.org/)
+  
 ### Grammar Checker
   - [(Web) Grammarly](https://www.grammarly.com/grammar-check)
   - [(Web) QuillBot](https://quillbot.com/grammar-check)
+  
 ### Plagiarism Checker
   - [(Web) Turnitin](https://www.turnitin.com/)
 
@@ -63,8 +76,20 @@ Repository of Resources to Research Scholars.
 - [(Web) eSkill India](https://eskillindia.org/)
 - [(Web) Indian Institute of Remote Sensing](https://elearning.iirs.gov.in/)
 - [(Web) Unacademy](https://unacademy.com/)
+- [(Web) MIT Open Course Ware](https://ocw.mit.edu/index.htm)
+
+## Misc
+### Annotation Tools
+- [(Web Extension) Hypothesis](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek)
+
+## References
+### h-index
+The h-index is an author-level metric that measures both the productivity and citation impact of the publications. The author should have 'X' papers with 'X' citations (each) to have an h-index of 'X'.
+
+### i10-index
+Number of papers with 10 or more citations for an author. This is used by Google Scholar. 
 
 ## Disclaimer
 Any errors/discrepancy found, please report to [Ramaguru Radhakrishnan](https://github.com/ramagururadhakrishnan/)
 
-##### Last Updated: 23-Nov-2021
+##### Last Updated: 24-Nov-2021
