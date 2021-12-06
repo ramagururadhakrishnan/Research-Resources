@@ -67,6 +67,10 @@ Repository of Resources to Research Scholars.
 ## Publication Finder / Submission
 - [(Web) Easychair](https://easychair.org/)
 
+## Journal Indexing
+- [BioxBio](https://www.bioxbio.com/)
+- [Master Journal List](https://mjl.clarivate.com/home)
+
 ## E-Learning Platforms
 - [(Web) Swayam - India](https://swayam.gov.in/)
 - [(Web) Coursera](https://www.coursera.org/)
@@ -92,4 +96,4 @@ Number of papers with 10 or more citations for an author. This is used by Google
 ## Disclaimer
 Any errors/discrepancy found, please report to [Ramaguru Radhakrishnan](https://github.com/ramagururadhakrishnan/)
 
-##### Last Updated: 24-Nov-2021
+##### Last Updated: 06-Dec-2021
