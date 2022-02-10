@@ -20,6 +20,20 @@ Repository of Resources to Research Scholars.
 - [(Web) PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [(Web) RSquareL](https://www.rsquarel.org/)
 
+## Patent Search 
+- [United States Patent and Trademark Office](https://www.uspto.gov/)
+- [European Patent Office](https://worldwide.espacenet.com/)
+- [Office of the Controller General of Patents, Designs and Trademarks, India](https://ipindia.gov.in/patents.htm)
+- [IP Australia](https://www.ipaustralia.gov.au/patents)
+
+## Professional Bodies
+- [Association of Computing Machinery (ACM)](https://www.acm.org/)
+- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
+- [Institute for Operations Research and the Management Sciences](https://www.informs.org/)
+- [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+- [Association of Data Scientists (ADaSci)](https://www.adasci.org/)
+- [International Neural Network Society](https://www.inns.org/)
+
 ## Concept and Mind-Mapping Tools
 - [Coggle](https://coggle.it/)
 - [Cmap](https://cmap.ihmc.us/)
@@ -86,14 +100,30 @@ Repository of Resources to Research Scholars.
 ### Annotation Tools
 - [(Web Extension) Hypothesis](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek)
 
-## References
-### h-index
+## Research Metrics
+### Journal Metrics
+#### Journal Impact Factor (JIF)
+JIF is the **yearly mean** number of citations of articles published in the last two years in a given journal.
+
+Example: To calculate the IF for year 2021, IF<sub>2021</sub> = Citation<sub>2021</sub> / Publications<sub>2020</sub> + Publications<sub>2019</sub>
+
+#### Immediacy Index 
+Immediacy Index is **the average number** of times an article is cited in the year it is published.
+
+#### Cited Half-Life 
+The Cited Half-Life is the **median age** of a journal's articles that were cited in the JCR year. Half of a journal citations were published more recently than the Cited Half-Life.
+
+#### Prestige Factor
+Prestige Factor is a measure of scientific influence of scholarly journals that accounts for both the number of citations received by a journal and the importance or prestige of the journals where such citations come from.
+
+### Researcher Metrics
+#### h-index
 The h-index is an author-level metric that measures both the productivity and citation impact of the publications. The author should have 'X' papers with 'X' citations (each) to have an h-index of 'X'.
 
-### i10-index
+#### i10-index
 Number of papers with 10 or more citations for an author. This is used by Google Scholar. 
 
 ## Disclaimer
 Any errors/discrepancy found, please report to [Ramaguru Radhakrishnan](https://github.com/ramagururadhakrishnan/)
 
-##### Last Updated: 06-Dec-2021
+##### Last Updated: 10-Feb-2022
