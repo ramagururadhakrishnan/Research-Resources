@@ -6,61 +6,61 @@
 Repository of Resources to Research Scholars.
 
 ## Academic Research Profiles / Abstraction & Indexing
-- [ ![](https://img.shields.io/badge/-Web-blue) Google Scholar](https://scholar.google.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Microsoft Academic Research](https://academic.microsoft.com/home)
-- [ ![](https://img.shields.io/badge/-Web-blue) Research Gate](https://www.researchgate.net/)
-- [ ![](https://img.shields.io/badge/-Web-blue) BASE](https://www.base-search.net/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Scopus](https://scopus.com/)
-  - [![](https://img.shields.io/badge/-How_To-blue) Find Scopus Index Journals](Scopus.md)
-- [ ![](https://img.shields.io/badge/-Web-blue) ORCiD](https://orcid.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Philpeople](https://philpeople.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Philpapers](https://philpapers.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) GrowKudos](https://www.growkudos.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Publication List](http://publicationslist.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Publons (WoS)](https://publons.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-- [ ![](https://img.shields.io/badge/-Web-blue) RSquareL](https://www.rsquarel.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Google Scholar](https://scholar.google.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Microsoft Academic Research](https://academic.microsoft.com/home)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Research Gate](https://www.researchgate.net/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) BASE](https://www.base-search.net/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Scopus](https://scopus.com/)
+ - [![](https://img.shields.io/badge/-How_To-blue) Find Scopus Index Journals](Scopus.md)
+ - [ ![](https://img.shields.io/badge/-Web-blue) ORCiD](https://orcid.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Philpeople](https://philpeople.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Philpapers](https://philpapers.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) GrowKudos](https://www.growkudos.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Publication List](http://publicationslist.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Publons (WoS)](https://publons.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) RSquareL](https://www.rsquarel.org/)
 
 ## Patent Search 
-- [United States Patent and Trademark Office](https://www.uspto.gov/)
-- [European Patent Office](https://worldwide.espacenet.com/)
-- [Office of the Controller General of Patents, Designs and Trademarks, India](https://ipindia.gov.in/patents.htm)
-- [IP Australia](https://www.ipaustralia.gov.au/patents)
+ - [United States Patent and Trademark Office](https://www.uspto.gov/)
+ - [European Patent Office](https://worldwide.espacenet.com/)
+ - [Office of the Controller General of Patents, Designs and Trademarks, India](https://ipindia.gov.in/patents.htm)
+ - [IP Australia](https://www.ipaustralia.gov.au/patents)
 
 ## Professional Bodies
-- [Association of Computing Machinery (ACM)](https://www.acm.org/)
-- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
-- [Institute for Operations Research and the Management Sciences](https://www.informs.org/)
-- [Society for Industrial and Applied Mathematics](https://www.siam.org/)
-- [Association of Data Scientists (ADaSci)](https://www.adasci.org/)
-- [International Neural Network Society](https://www.inns.org/)
+ - [Association of Computing Machinery (ACM)](https://www.acm.org/)
+ - [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
+ - [Institute for Operations Research and the Management Sciences](https://www.informs.org/)
+ - [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+ - [Association of Data Scientists (ADaSci)](https://www.adasci.org/)
+ - [International Neural Network Society](https://www.inns.org/)
 
 ## Concept and Mind-Mapping Tools
-- [ ![](https://img.shields.io/badge/-Web-blue) Coggle](https://coggle.it/)
-- [ ![](https://img.shields.io/badge/-Desktop-blue) Cmap](https://cmap.ihmc.us/)
-- [ ![](https://img.shields.io/badge/-Desktop/Mobile-blue) Obsidian](https://obsidian.md/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Coggle](https://coggle.it/)
+ - [ ![](https://img.shields.io/badge/-Desktop-blue) Cmap](https://cmap.ihmc.us/)
+ - [ ![](https://img.shields.io/badge/-Desktop/Mobile-blue) Obsidian](https://obsidian.md/)
 
 ## My Research Tracker
-- [ ![](https://img.shields.io/badge/-Mobile-blue) Clarivate Web of Science - My Research Assistant](https://clarivate.com/webofsciencegroup/solutions/web-of-science-my-research-assistant/)
-- [![](https://img.shields.io/badge/-Web/Desktop-blue) Mendeley](https://www.mendeley.com/)
-- [ ![](https://img.shields.io/badge/-Desktop-blue) Zotero](https://www.zotero.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Iris.ai](https://iris.ai/)
+ - [ ![](https://img.shields.io/badge/-Mobile-blue) Clarivate Web of Science - My Research Assistant](https://clarivate.com/webofsciencegroup/solutions/web-of-science-my-research-assistant/)
+ - [![](https://img.shields.io/badge/-Web/Desktop-blue) Mendeley](https://www.mendeley.com/)
+ - [ ![](https://img.shields.io/badge/-Desktop-blue) Zotero](https://www.zotero.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Iris.ai](https://iris.ai/)
 
 ## Dataset Repo
-- [ ![](https://img.shields.io/badge/-Web-blue) Google Research Datasets](https://research.google/tools/datasets/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Kaggle](https://www.kaggle.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Microsoft Research Open Data](https://msropendata.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) SAGE Research Methods](https://methods.sagepub.com/Datasets)
-- [ ![](https://img.shields.io/badge/-Web-blue) IEEE Dataport](https://ieee-dataport.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Mendely](https://data.mendeley.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Dataverse]https://dataverse.scholarsportal.info/
-- [ ![](https://img.shields.io/badge/-Web-blue) Open Knowledge Foundation](https://okfn.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Google Research Datasets](https://research.google/tools/datasets/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Kaggle](https://www.kaggle.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Microsoft Research Open Data](https://msropendata.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) SAGE Research Methods](https://methods.sagepub.com/Datasets)
+ - [ ![](https://img.shields.io/badge/-Web-blue) IEEE Dataport](https://ieee-dataport.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Mendely](https://data.mendeley.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Dataverse](https://dataverse.scholarsportal.info/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Open Knowledge Foundation](https://okfn.org/)
 
 ## Code / Dataset / Version Management
-- [ ![](https://img.shields.io/badge/-Web/Mobile-blue) GitHub](https://github.com/)
-  - [ ![](https://img.shields.io/badge/-PDF-blue) Cheat Sheet](https://ramagururadhakrishnan.github.io/Research-Resources/assets/Markdown_Cheat_Sheet.pdf)
-- [ ![](https://img.shields.io/badge/-Web-blue) Codepen](https://codepen.io/)
-- [ ![](https://img.shields.io/badge/-Web-blue) BitBucket](https://bitbucket.org/)
+ - [ ![](https://img.shields.io/badge/-Web/Mobile-blue) GitHub](https://github.com/)
+   - [ ![](https://img.shields.io/badge/-PDF-blue) Cheat Sheet](https://ramagururadhakrishnan.github.io/Research-Resources/assets/Markdown_Cheat_Sheet.pdf)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Codepen](https://codepen.io/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) BitBucket](https://bitbucket.org/)
 
 ## Thesis/Publication Writing
 ### Online Editor 
@@ -82,26 +82,26 @@ Repository of Resources to Research Scholars.
   - [ ![](https://img.shields.io/badge/-Web-purple) Turnitin (Access Requried)](https://www.turnitin.com/)
 
 ## Publication Finder / Submission
-- [ ![](https://img.shields.io/badge/-Web-blue) Easychair](https://easychair.org/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) Easychair](https://easychair.org/)
 
 ## Journal Indexing
-- [BioxBio](https://www.bioxbio.com/)
-- [Master Journal List](https://mjl.clarivate.com/home)
+  - [BioxBio](https://www.bioxbio.com/)
+  - [Master Journal List](https://mjl.clarivate.com/home)
 
 ## E-Learning Platforms
-- [ ![](https://img.shields.io/badge/-Web-blue) Swayam - India](https://swayam.gov.in/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Coursera](https://www.coursera.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) edX](https://www.edx.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Udemy](https://www.udemy.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Khan Academy](https://www.khanacademy.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) eSkill India](https://eskillindia.org/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Indian Institute of Remote Sensing](https://elearning.iirs.gov.in/)
-- [ ![](https://img.shields.io/badge/-Web-blue) Unacademy](https://unacademy.com/)
-- [ ![](https://img.shields.io/badge/-Web-blue) MIT Open Course Ware](https://ocw.mit.edu/index.htm)
+  - [ ![](https://img.shields.io/badge/-Web-blue) Swayam - India](https://swayam.gov.in/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) Coursera](https://www.coursera.org/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) edX](https://www.edx.org/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) Udemy](https://www.udemy.com/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) Khan Academy](https://www.khanacademy.org/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) eSkill India](https://eskillindia.org/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) Indian Institute of Remote Sensing](https://elearning.iirs.gov.in/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) Unacademy](https://unacademy.com/)
+  - [ ![](https://img.shields.io/badge/-Web-blue) MIT Open Course Ware](https://ocw.mit.edu/index.htm)
 
 ## Misc
 ### Annotation Tools
-- [ ![](https://img.shields.io/badge/-Web_Extension-blue) Hypothesis](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek)
+  - [ ![](https://img.shields.io/badge/-Web_Extension-blue) Hypothesis](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek)
 
 ## Research Metrics
 ### Journal Metrics
@@ -129,4 +129,4 @@ Number of papers with 10 or more citations for an author. This is used by Google
 ## Disclaimer
 Any errors/discrepancy found, please report to [Ramaguru Radhakrishnan](https://github.com/ramagururadhakrishnan/)
 
-##### Last Updated: 05-May-2022
+##### Last Updated: 07-May-2022
