@@ -15,7 +15,7 @@
 - Right Click "**My Searches**" to see the list of options available
 
 <p align="center">
-  <img src="assets/PoP.png" width="1500" />
+  <img src="assets/PoP.png" width="600" />
 </p>
 
 - Either **Google Scholar Search** can be selected or **Google Scholar Profile** can be selected
