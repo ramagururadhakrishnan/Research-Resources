@@ -7,7 +7,6 @@ Repository of Resources to Research Scholars.
 
 ## Academic Research Profiles / Abstraction & Indexing
  - [ ![](https://img.shields.io/badge/-Web-blue) Google Scholar](https://scholar.google.com/)
- - [ ![](https://img.shields.io/badge/-Web-blue) Microsoft Academic Research](https://academic.microsoft.com/home)
  - [ ![](https://img.shields.io/badge/-Web-blue) Research Gate](https://www.researchgate.net/)
  - [ ![](https://img.shields.io/badge/-Web-blue) BASE](https://www.base-search.net/)
  - [ ![](https://img.shields.io/badge/-Web-blue) Scopus](https://scopus.com/)
@@ -20,19 +19,25 @@ Repository of Resources to Research Scholars.
  - [ ![](https://img.shields.io/badge/-Web-blue) Publons (WoS)](https://publons.com/)
  - [ ![](https://img.shields.io/badge/-Web-blue) PubMed](https://pubmed.ncbi.nlm.nih.gov/)
  - [ ![](https://img.shields.io/badge/-Web-blue) RSquareL](https://www.rsquarel.org/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) BioxBio](https://www.bioxbio.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Clarivate - Master Journal List](https://mjl.clarivate.com/home)
+ - [ ![](https://img.shields.io/badge/-Deprecated-red) ![](https://img.shields.io/badge/-Web-blue) Microsoft Academic Research](https://academic.microsoft.com/home)
 
 ## Bibliometric Analysis
 
- - [ ![](https://img.shields.io/badge/-Web-blue) Connected Papers](https://www.connectedpapers.com/)
+ - [ ![](https://img.shields.io/badge/-Web-blue) Connected Papers](https://www.connectedpapers.com/) 
     - [![](https://img.shields.io/badge/-How_To-blue) Build Graph](Connectedpapers)
  - [ ![](https://img.shields.io/badge/-Desktop-blue) Publish or Perish](https://harzing.com/resources/publish-or-perish)
     - [![](https://img.shields.io/badge/-How_To-blue) Search and Analysis](PoP)
  - [ ![](https://img.shields.io/badge/-Web/Desktop-blue) VOSViewer](https://www.vosviewer.com/)
+ - [ ![](https://img.shields.io/badge/-Desktop-blue) BibExcel](https://homepage.univie.ac.at/juan.gorraiz/bibexcel/)
+ - [ ![](https://img.shields.io/badge/-Desktop-blue) Sitkis](https://sites.google.com/site/sitkisbibliometricanalysis/home)
 
 ## Patent Search 
+
+ - [Office of the Controller General of Patents, Designs and Trademarks, India](https://ipindia.gov.in/patents.htm)
  - [United States Patent and Trademark Office](https://www.uspto.gov/)
  - [European Patent Office](https://worldwide.espacenet.com/)
- - [Office of the Controller General of Patents, Designs and Trademarks, India](https://ipindia.gov.in/patents.htm)
  - [IP Australia](https://www.ipaustralia.gov.au/patents)
 
 ## Professional Bodies
@@ -82,19 +87,21 @@ Repository of Resources to Research Scholars.
 ### Citation 
   - [ ![](https://img.shields.io/badge/-Web-blue) Citeas](https://citeas.org/)
   
-### Grammar Checker
+### Grammar Checker and Paraphrase
   - [ ![](https://img.shields.io/badge/-Web-blue) Grammarly](https://www.grammarly.com/grammar-check)
   - [ ![](https://img.shields.io/badge/-Web-blue) QuillBot](https://quillbot.com/grammar-check)
   
 ### Plagiarism Checker
   - [ ![](https://img.shields.io/badge/-Web-purple) Turnitin (Access Requried)](https://www.turnitin.com/)
 
-## Publication Finder / Submission
-  - [ ![](https://img.shields.io/badge/-Web-blue) Easychair](https://easychair.org/)
-
-## Journal Indexing
-  - [BioxBio](https://www.bioxbio.com/)
-  - [Master Journal List](https://mjl.clarivate.com/home)
+## Journal Finder / Submission
+  - [Easychair](https://easychair.org/)
+  - [Elsevier](http://journalfinder.elsevier.com/)
+  - [IEEE](http://publication-recommender.ieee.org/home)
+  - [Springer](https://journalsuggester.springer.com/)
+  - [SAGE](https://journal-recommender.sagepub.com/)
+  - [Wiley](https://journalfinder.wiley.com/search?type=match)
+  - [Taylor & Francis](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/)
 
 ## E-Learning Platforms
   - [ ![](https://img.shields.io/badge/-Web-blue) Swayam - India](https://swayam.gov.in/)
@@ -144,4 +151,4 @@ Any errors/discrepancy found, please report to [Ramaguru Radhakrishnan](https://
 |   1   | <img src="https://ramagururadhakrishnan.github.io/MyGurus/Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> | Prof. M. Sethumadhavan, <br/> Head, TIFAC-CORE in Cyber Security, <br/> Amrita Vishwa Vidyapeetham, Coimbatore |
 |   2   | <img src="https://ramagururadhakrishnan.github.io/MyGurus/Assets/Amrita/ENS.jpg" alt="N Sundararajan" width="120"/> | Prof. N. Sundararajan (Retd), <br/> NTU, Singapore | 
 
-##### Last Updated: 14-May-2022
+##### Last Updated: 16-May-2022
