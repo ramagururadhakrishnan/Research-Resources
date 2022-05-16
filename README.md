@@ -24,9 +24,9 @@ Repository of Resources to Research Scholars.
 ## Bibliometric Analysis
 
  - [ ![](https://img.shields.io/badge/-Web-blue) Connected Papers](https://www.connectedpapers.com/)
-    - [![](https://img.shields.io/badge/-How_To-blue) Build Graph](Connectedpapers.md)
+    - [![](https://img.shields.io/badge/-How_To-blue) Build Graph](Connectedpapers)
  - [ ![](https://img.shields.io/badge/-Desktop-blue) Publish or Perish](https://harzing.com/resources/publish-or-perish)
-    - [![](https://img.shields.io/badge/-How_To-blue) Search and Analysis](PoP.md)
+    - [![](https://img.shields.io/badge/-How_To-blue) Search and Analysis](PoP)
  - [ ![](https://img.shields.io/badge/-Web/Desktop-blue) VOSViewer](https://www.vosviewer.com/)
 
 ## Patent Search 
