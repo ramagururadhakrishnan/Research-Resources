@@ -10,7 +10,7 @@ Repository of Resources to Research Scholars.
  - [ ![](https://img.shields.io/badge/-Web-blue) Research Gate](https://www.researchgate.net/)
  - [ ![](https://img.shields.io/badge/-Web-blue) BASE](https://www.base-search.net/)
  - [ ![](https://img.shields.io/badge/-Web-blue) Scopus](https://scopus.com/)
-    - [![](https://img.shields.io/badge/-How_To-blue) Find Scopus Index Journals](Scopus)
+    - [![](https://img.shields.io/badge/-How_To-blue) Find Scopus Index Journals](Scopus.md)
  - [ ![](https://img.shields.io/badge/-Web-blue) ORCiD](https://orcid.org/)
  - [ ![](https://img.shields.io/badge/-Web-blue) Philpeople](https://philpeople.org/)
  - [ ![](https://img.shields.io/badge/-Web-blue) Philpapers](https://philpapers.org/)
@@ -28,7 +28,7 @@ Repository of Resources to Research Scholars.
  - [ ![](https://img.shields.io/badge/-Web-blue) Connected Papers](https://www.connectedpapers.com/) 
     - [![](https://img.shields.io/badge/-How_To-blue) Build Graph](Connectedpapers)
  - [ ![](https://img.shields.io/badge/-Desktop-blue) Publish or Perish](https://harzing.com/resources/publish-or-perish)
-    - [![](https://img.shields.io/badge/-How_To-blue) Search and Analysis](PoP)
+    - [![](https://img.shields.io/badge/-How_To-blue) Search and Analysis](PoP.md)
  - [ ![](https://img.shields.io/badge/-Web/Desktop-blue) VOSViewer](https://www.vosviewer.com/)
  - [ ![](https://img.shields.io/badge/-Desktop-blue) BibExcel](https://homepage.univie.ac.at/juan.gorraiz/bibexcel/)
  - [ ![](https://img.shields.io/badge/-Desktop-blue) Sitkis](https://sites.google.com/site/sitkisbibliometricanalysis/home)
@@ -151,4 +151,4 @@ Any errors/discrepancy found, please report to [Ramaguru Radhakrishnan](https://
 |   1   | <img src="https://ramagururadhakrishnan.github.io/MyGurus/Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> | Prof. M. Sethumadhavan, <br/> Head, TIFAC-CORE in Cyber Security, <br/> Amrita Vishwa Vidyapeetham, Coimbatore |
 |   2   | <img src="https://ramagururadhakrishnan.github.io/MyGurus/Assets/Amrita/ENS.jpg" alt="N Sundararajan" width="120"/> | Prof. N. Sundararajan (Retd), <br/> NTU, Singapore | 
 
-##### Last Updated: 16-May-2022
+##### Last Updated: 12-September-2022
