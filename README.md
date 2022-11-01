@@ -10,7 +10,7 @@ Repository of Resources to Research Scholars.
  - [ ![](https://img.shields.io/badge/-Web-blue) Research Gate](https://www.researchgate.net/)
  - [ ![](https://img.shields.io/badge/-Web-blue) BASE](https://www.base-search.net/)
  - [ ![](https://img.shields.io/badge/-Web-blue) Scopus](https://scopus.com/)
-    - [![](https://img.shields.io/badge/-How_To-blue) Find Scopus Index Journals](Scopus)
+    - [![](https://img.shields.io/badge/-How_To-blue) Find Scopus Index Journals](Scopus.md)
  - [ ![](https://img.shields.io/badge/-Web-blue) ORCiD](https://orcid.org/)
  - [ ![](https://img.shields.io/badge/-Web-blue) Philpeople](https://philpeople.org/)
  - [ ![](https://img.shields.io/badge/-Web-blue) Philpapers](https://philpapers.org/)
